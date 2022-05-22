@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Dm me in discord ImLew#0777
+- Video
+- ✨J'ai crypté le client et tout les truc que j'ai refait mais vous pouvez quand meme utuliser✨
 
-<!---
-✨J'ai crypté le client et tout les truc que j'ai refait mais vous pouvez quand meme utuliser✨
---->
